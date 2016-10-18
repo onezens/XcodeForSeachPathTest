@@ -1,0 +1,6 @@
+framework module zhenFW {
+  umbrella header "zhenFW.h"
+
+  export *
+  module * { export * }
+}
