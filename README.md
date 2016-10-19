@@ -2,7 +2,8 @@
 Xcode test demo for SeachPath
 
 #blog地址(定时更新):
-[http://www.wackosix.cn/searchpaths/](http://www.wackosix.cn/searchpaths/)
+[http://www.wackosix.cn/searchpaths/](http://www.wackosix.cn/searchpaths/)  
+**简书：**[http://www.jianshu.com/p/9f9c1fd2e8b5](http://www.jianshu.com/p/9f9c1fd2e8b5)
 
 #Xcode 导入第三方库-Search Paths相关配置
 开发的过程当中，导入第三方库(framework/.a/.dylib)或者下载使用别人的demo会经常会遇到一些关于库的导入的问题。而导入第三方库后，这写库的路径应该现在在导入当前项目target的`Search Paths`中，具体的设置路径：`target -> Build Settings -> Search Paths -> Framework Search Paths / Library Search Paths`。
